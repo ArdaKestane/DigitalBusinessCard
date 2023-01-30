@@ -1,0 +1,75 @@
+.info-container{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.info-image{
+    width: 450px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: -5px; 
+}
+.inner-container{
+    text-align: center;
+    background-color: #1A1B21;
+}
+
+.info-name{
+    padding-top: 30px;
+    margin: 0px;
+    color: white;
+    
+}
+
+.info-title{
+    margin: 5px;
+    color: #F3BF99;
+}
+.info-website{
+    color: #F5F5F5;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.info-email-button{
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    width: 150px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: white;
+    
+}
+
+.info-linkedin-button{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: #438fe7;
+}
+.image{
+    margin: 5px;
+    align-self: center;
+    width: 20px;
+    height: 20px;
+}
+.button-text{
+    align-self: center;
+}
+
+.email-text{
+    align-self: center;
+}
+.linkedin-text{
+    align-self: center;
+    color:white;
+}
